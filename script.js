@@ -30,7 +30,7 @@ const allQuestions = {
   Beginner: [
     {
       question: "Scenario: A new student from another state joins your class. Some classmates refuse to sit next to them because of their origin. Which value of our Constitution is violated here?",
-      options: ["Right to Equality & Non-discrimination", "Right to Freedom of Religion"],
+      options: [ "Right to Freedom of Religion","Right to Equality & Non-discrimination"],
       answer: 0,
       hint: "Our Constitution guarantees that no citizen can be discriminated against based on place of birth, gender, or caste."
     },
@@ -48,13 +48,13 @@ const allQuestions = {
     },
     {
       question: "Scenario: During recess, you see a group of students scribbling their names on the school walls and damaging the desks. Which fundamental duty should they remember?",
-      options: ["Duty to safeguard public property", "Duty to defend the country"],
+      options: ["Duty to defend the country","Duty to safeguard public property"],
       answer: 0,
       hint: "Public property, like school buildings, parks, and buses, belongs to everyone and must be protected."
     },
     {
       question: "Scenario: Some students refuse to let girls play football on the playground, claiming sports are only for boys. This goes against:",
-      options: ["Gender Equality and Right to Equality", "Freedom of Occupation"],
+      options: ["Freedom of Occupation","Gender Equality and Right to Equality"],
       answer: 0,
       hint: "The Constitution treats all genders equally and forbids gender discrimination."
     },
@@ -66,7 +66,7 @@ const allQuestions = {
     },
     {
       question: "Scenario: Your classmate, Sarah, follows a different religion and wants to pray quietly during break time. Some students try to stop her. Which constitutional value protects Sarah?",
-      options: ["Secularism & Freedom of Religion", "Right to Information"],
+      options: ["Right to Information","Secularism & Freedom of Religion"],
       answer: 0,
       hint: "India is a secular country, which means everyone has the freedom to practice their own religion."
     },
@@ -84,7 +84,7 @@ const allQuestions = {
     },
     {
       question: "Scenario: A factory in a neighborhood is dumping toxic chemicals into a local drinking water pond. Which right of the local residents is being violated?",
-      options: ["Right to clean environment (part of Right to Life)", "Right to Freedom of Assembly"],
+      options: ["Right to Freedom of Assembly","Right to clean environment (part of Right to Life)"],
       answer: 0,
       hint: "The Supreme Court has ruled that the Right to Life includes the right to pollution-free water and air."
     }
@@ -92,7 +92,7 @@ const allQuestions = {
   Intermediate: [
     {
       question: "Scenario: A local government office decides to only hire male officers for administrative roles. Can a female candidate challenge this in court?",
-      options: ["Yes, under Right to Equality in public employment", "No, governments can choose whoever they want"],
+      options: ["No, governments can choose whoever they want","Yes, under Right to Equality in public employment"],
       answer: 0,
       hint: "Article 16 guarantees equal opportunity in public employment regardless of gender."
     },
@@ -172,7 +172,7 @@ const allQuestions = {
     },
     {
       question: "Scenario: A state law requires citizens to obtain permission from a local committee before they can change their religion. Which right is examined under this law?",
-      options: ["Right to Freedom of Religion (Article 25)", "Right to Cultural Rights"],
+      options: ["Right to Cultural Rights","Right to Freedom of Religion (Article 25)"],
       answer: 0,
       hint: "Article 25 guarantees the freedom of conscience and free profession, practice, and propagation of religion."
     },
@@ -190,7 +190,7 @@ const allQuestions = {
     },
     {
       question: "Scenario: A government department refuses to share documents about how public school funds were spent with a parent group. Which act helps the parents obtain this data?",
-      options: ["Right to Information (RTI) Act", "Right to Education Act"],
+      options: ["Right to Education Act","Right to Information (RTI) Act"],
       answer: 0,
       hint: "RTI is an implied part of Freedom of Speech, allowing citizens to inspect public works and records."
     },
@@ -202,7 +202,7 @@ const allQuestions = {
     },
     {
       question: "Scenario: A judge rules that a citizen cannot be punished twice for the exact same offense. Which constitutional protection is this?",
-      options: ["Protection against Double Jeopardy (Article 20)", "Protection against arbitrary arrest"],
+      options: [ "Protection against arbitrary arrest","Protection against Double Jeopardy (Article 20)"],
       answer: 0,
       hint: "Article 20(2) states that no person shall be prosecuted and punished for the same offense more than once."
     },
